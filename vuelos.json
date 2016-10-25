@@ -1,7 +1,7 @@
 {"vuelos":[
-  {"origen":"JFK", "destino":"BOG"},
-  {"origen":"EKS", "destino":"EMI"},
-  {"origen":"EMI", "destino":"EKS"},
-  {"origen":"OBX", "destino":"SBF"},
-  {"origen":"SBF", "destino":"BOG"}
+  {"origen":"JFK", "destino":"BOG","horaSalida":"20:20","horaLlegada":"12:34","estado":"A tiempo"},
+  {"origen":"EKS", "destino":"EMI","horaSalida":"7:35","horaLlegada":"18:32","estado":"Retrasado"},
+  {"origen":"EMI", "destino":"EKS","horaSalida":"1:04","horaLlegada":"13:20","estado":"Retrasado"},
+  {"origen":"OBX", "destino":"SBF","horaSalida":"22:54","horaLlegada":"1:44","estado":"A tiempo"},
+  {"origen":"SBF", "destino":"BOG","horaSalida":"13:11","horaLlegada":"20:37","estado":"Retrasado"}
 ]}

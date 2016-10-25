@@ -1,7 +1,7 @@
-[
+{"vuelos":[
   {"origen":"JFK", "destino":"BOG"},
   {"origen":"EKS", "destino":"EMI"},
   {"origen":"EMI", "destino":"EKS"},
   {"origen":"OBX", "destino":"SBF"},
   {"origen":"SBF", "destino":"BOG"}
-]
+]}
